@@ -207,5 +207,5 @@ We welcome contributions! Please follow these steps:
 
 For inquiries or collaboration opportunities, please contact:  
 📩 **Aditya Pratap Singh**  
-🔗 [LinkedIn](https://www.linkedin.com/in/aditya-pratap-singh)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-pratap-singh-6a35aa22b)  
 🌐 [GitHub](https://github.com/pratapaadi)
